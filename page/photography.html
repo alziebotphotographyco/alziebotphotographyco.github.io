@@ -9,9 +9,11 @@
 	</section>
 </div>
 
-	<div id="photolink" class="container" ng-controller="PhotoController">
+	<div class="container" ng-controller="PhotoController">
 		<div class="col-sm-4" ng-repeat="photo in photos">
-			<a href="{{ photo.url }}"><img width="350px" ng-src="{{ photo.url }}"></a>
-			<p>{{ photo.location }} {{ photo.date }} {{ photo.comment }}</p>
+			<div id="photolink">
+				<a href="{{ photo.url }}"><img width="350px" ng-src="{{ photo.url }}"></a>
+				<p>{{ photo.location }} {{ photo.date }} {{ photo.comment }}</p>
+			</div>
 		</div>
 	</div>
