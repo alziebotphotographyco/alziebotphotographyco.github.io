@@ -25,6 +25,5 @@ body {
 }
 
 #photolink:hover {
-  text-emphasis-color: white;
-  background-color: black;
+  background-color: #8C7272;
 }
