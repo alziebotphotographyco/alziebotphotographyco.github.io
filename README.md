@@ -1,1 +1,0 @@
-# alziebotphotographyco.github.io
