@@ -19,10 +19,13 @@ body {
   padding: 15px;
 }
 
-#photolink:hover {
-  text-emphasis-color: white;
-  background-color: black;
+#photolink {
   justify-content: center;
   text-align: center;
   align-content: center;
+}
+
+#photolink:hover {
+  text-emphasis-color: white;
+  background-color: black;
 }
