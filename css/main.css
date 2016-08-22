@@ -26,4 +26,5 @@ body {
 
 #photolink:hover {
   background-color: #8C7272;
+  transition: background 500ms;
 }
