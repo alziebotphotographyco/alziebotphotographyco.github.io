@@ -34,6 +34,6 @@ figure {
   transition: background 1500ms;
 }
 
-#photolink:checked {
+#photolink:active {
   background-color: #E3DDDD;
 }
