@@ -33,3 +33,7 @@ figure {
   background-color: #E3DDDD;
   transition: background 1500ms;
 }
+
+#photolink:checked {
+  background-color: #E3DDDD;
+}
