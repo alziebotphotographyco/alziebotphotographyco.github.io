@@ -39,6 +39,18 @@ app.controller('BlogController', function($scope, $routeParams) {
           photos: [
             {
               location: "",
+              url: "",
+              comment: "",
+              date: "",
+            },
+          ],
+        },
+        {
+          heading: "",
+          text: "",
+          photos: [
+            {
+              location: "",
               url: "image/blog/3.jpg",
               comment: "Andrew Warner",
               date: "",
