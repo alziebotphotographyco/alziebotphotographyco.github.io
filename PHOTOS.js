@@ -100,12 +100,6 @@ app.controller('PhotoController', function($scope, $routeParams) {
     },
     {
       location: "",
-      url: "image/myart/17.jpg",
-      comment: "Ram&Shackle Gig",
-      date: "10/07/2016",
-    },
-    {
-      location: "",
       url: "image/myart/18.jpg",
       comment: "Ram&Shackle Gig",
       date: "10/07/2016",
@@ -113,6 +107,12 @@ app.controller('PhotoController', function($scope, $routeParams) {
     {
       location: "",
       url: "image/myart/19.jpg",
+      comment: "Ram&Shackle Gig",
+      date: "10/07/2016",
+    },
+    {
+      location: "",
+      url: "image/myart/20.jpg",
       comment: "Ram&Shackle Gig",
       date: "10/07/2016",
     },
