@@ -98,5 +98,23 @@ app.controller('PhotoController', function($scope, $routeParams) {
       comment: "Hidden Cabins Gig",
       date: "03-04-16",
     },
+    {
+      location: "",
+      url: "image/myart/17.jpg",
+      comment: "Ram&Shackle Gig",
+      date: "10/07/2016",
+    },
+    {
+      location: "",
+      url: "image/myart/18.jpg",
+      comment: "Ram&Shackle Gig",
+      date: "10/07/2016",
+    },
+    {
+      location: "",
+      url: "image/myart/19.jpg",
+      comment: "Ram&Shackle Gig",
+      date: "10/07/2016",
+    },
   ]
 })
