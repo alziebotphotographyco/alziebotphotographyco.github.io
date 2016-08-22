@@ -22,8 +22,10 @@ body {
 figure {
   text-align: center;
   align-content: center;
-  border: 5px;
-  padding: 5px;
+}
+
+#photolink {
+  padding: 15px;
 }
 
 #photolink:hover {
