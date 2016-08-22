@@ -209,22 +209,6 @@ app.controller('BlogController', function($scope, $routeParams) {
       ],
     },
 
-    {
-      photos: [
-        {
-          location: "",
-          url: "image/blog/",
-          comment: "",
-          date: "//",
-        },
-      ],
-    },
-
-    {
-      heading: "",
-      text: "",
-    },
-
   ],
 },
 END OF ENTRY TEMPLATE*/
