@@ -18,3 +18,8 @@ body {
 .row {
   padding: 15px;
 }
+
+#photolink:hover {
+  text-emphasis-color: white;
+  background-color: black;
+}
